@@ -1,0 +1,1 @@
+Implement several Pac-Man agents, including BFS, DFS, A*, Hill-Climbing, Genetic and Monte-Carlo Tree Search.
